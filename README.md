@@ -3,7 +3,7 @@
 
 **EscuroStout1/EscuroStout1** is a ✨ _special_ ✨ repository because its `README.md` 
 
-things about me:
+About me:
 
 - 🔭 I’m currently working on ... myself
 - 🌱 I’m currently learning ... how to code, english and how to talk with women
