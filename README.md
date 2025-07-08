@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**EscuroStout1/EscuroStout1** is a ✨ _special_ ✨ repository because its `README.md` (this file)
+**EscuroStout1/EscuroStout1** is a ✨ _special_ ✨ repository because its `README.md` 
 
 things about me:
 
