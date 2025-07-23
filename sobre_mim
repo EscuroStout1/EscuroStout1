@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mim</title>
+</head>
+<body> <h1>Hi, today i'm gonna show you guys some caracteristics about my person. So, let's get started.
+</h1>
+<form>
+    <fieldset>
+        <legend>My data</legend>
+       
+            <tr>
+                <td> nome:</td>
+               <td><input type="text" name="" id="" placeholder="João Victor" required></td>               
+            </tr>
+            <tr><br>
+                <td>about me:</td>
+                <td>So, first of all, i describe myself as an very curious person, who likes living well with people that likes me too, i like to train, to learn new skills, i love my little dog "Nina", i trie to eat, sleep, and drink water well every day, but above all, i really love being better than before.</tdtr>
+
+    </fieldset>
+</tr>
+    <td><img src="https://avatars.githubusercontent.com/u/219682103?v=4 alt="" width="150"> </td><br> 
+    And this is my favorite site: <a href="https://ezmp3.to/">Download de músicas</a>
+        <p>Contact me by email: jvictorm899@gmil.com
+</body>
+</html>
